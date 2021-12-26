@@ -1,0 +1,15 @@
+{
+
+“name”: “dms-handouts”,
+
+“version”: “1.0.0”,
+
+“description”: “A simple handout bot for DMs and Game Masters”,
+
+“main”: “bot.js”,
+
+“author”: “Maxine Heath”,
+
+“dependencies”: {  }
+
+}
